@@ -77,23 +77,3 @@ FOREIGN KEY (BookingID)
 REFERENCES ClientBooking(BookingID)
 ON DELETE CASCADE;
 
-INSERT INTO ClientBooking (
-    ClientName,
-    Email,
-    Phone,
-    EventName,
-    EventType,
-    EventDate,
-    EventDescription
-)
-VALUES (
-    'Alice Tan',
-    'alice.tan@example.com',
-    '018-7654321',
-    'Team Building Workshop',
-    'Virtual',
-    '2025-06-27',
-    'Squid Game'
-);
-
-
