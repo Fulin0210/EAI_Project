@@ -7,7 +7,7 @@ Final Submission
 Student Name     : Cheng Fu Lin
 Student ID       : 1221301545
 Course Code      : CIT6324
-Lecturer         :  Assoc Prof Dr Khairil Imran bin Ghauth
+Lecturer         : Assoc Prof Dr Khairil Imran bin Ghauth
 Submission Date  : 25 June 2025
 Project Title    : Enterprise Application for ATAG Team Building – Booking & Event Management System
 
