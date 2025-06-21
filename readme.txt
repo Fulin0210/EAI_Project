@@ -38,12 +38,14 @@ The goal of this project is to streamline and digitize ATAG’s client booking a
 ==============================
 4. Instructions to Run the Application
 ==============================
-1. Open the project solution in Visual Studio.
-2. Restore NuGet packages (if any).
-3. Run the Web API project first to enable backend services.
-4. Launch the WinForms application to access the UI.
-5. SQL Server should be running with the provided database (ATAG) imported.
-6. Use default users to log in:
+1. Unzip ClientBookingApp and ClientBookingInterface.
+2. Open the project solution in Visual Studio.
+3. Restore NuGet packages (if any).
+4. Run the ClientBookingApp first to enable backend services.
+5. Download Microsoft SQL Server (if not downloaded). Connect to ATAG Database.
+6. Launch the WinForms application to access the UI.
+7. SQL Server should be running with the provided database (ATAG) imported.
+8. Use default users to log in:
    - Username: salesuser | Password: password123
    - Username: opsuser   | Password: password456
 
